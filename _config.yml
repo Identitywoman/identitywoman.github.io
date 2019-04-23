@@ -1,5 +1,8 @@
+title: IdentityWoman - Identity Commons
+description: For Identity Commons resources to serve the community working on identity.
 
 theme: jekyll-theme-tactile
+
 
 plugins:
   - jekyll-redirect-from
